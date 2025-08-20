@@ -295,7 +295,7 @@ msgstr ""
 
 #: frontend/src/pages/Courses.vue:26 lms/lms/widgets/BreadCrumb.html:3
 msgid "All Courses"
-msgstr ""
+msgstr "Hello huhu"
 
 #: lms/lms/doctype/lms_quiz/lms_quiz.py:42
 msgid "All questions should have the same marks if the limit is set."

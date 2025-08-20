@@ -23,6 +23,7 @@
 			class="flex flex-col lg:flex-row space-y-4 lg:space-y-0 lg:items-center justify-between mb-5"
 		>
 			<div class="text-lg text-ink-gray-9 font-semibold">
+				Why huhuhu
 				{{ __('All Courses') }}
 			</div>
 			<div

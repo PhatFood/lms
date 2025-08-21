@@ -3263,6 +3263,8 @@ msgstr "Chi tiết công việc"
 msgid "Job Openings"
 msgstr "Cơ hội việc làm"
 
+msgid "job Openings"
+msgstr "Cơ hội việc làm"
 #. Name of a DocType
 #: lms/job/doctype/job_opportunity/job_opportunity.json
 msgid "Job Opportunity"
@@ -7572,3 +7574,6 @@ msgstr "{} Đi qua"
 #: lms/lms/workspace/lms/lms.json
 msgid "{} Published"
 msgstr "{} Được xuất bản"
+
+msgid "Getting started"
+msgstr "Bắt đầu"

@@ -3157,7 +3157,7 @@ msgstr "ID đố không hợp lệ"
 
 #: lms/lms/doctype/course_lesson/course_lesson.py:37
 msgid "Invalid Quiz ID in content"
-msgstr "ID câu đố không hợp lệ trong nội dung"
+msgstr "ID bài kiểm tra không hợp lệ trong nội dung"
 
 #. Label of the invite_code (Data) field in DocType 'Cohort Subgroup'
 #: lms/lms/doctype/cohort_subgroup/cohort_subgroup.json
@@ -4350,7 +4350,7 @@ msgstr "Không tìm thấy đệ trình bài kiểm tra"
 
 #: frontend/src/pages/Quizzes.vue:19
 msgid "No Quizzes"
-msgstr "Không có câu đố"
+msgstr "Không có bài kiểm tra"
 
 #. Option for the 'Auto Recording' (Select) field in DocType 'LMS Live Class'
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
@@ -4407,7 +4407,7 @@ msgstr "Chưa có câu hỏi nào được thêm vào"
 
 #: frontend/src/components/Modals/QuizInVideo.vue:93
 msgid "No quizzes added yet."
-msgstr "Chưa có câu đố nào được thêm vào."
+msgstr "Chưa có bài kiểm tra nào được thêm vào."
 
 #: frontend/src/components/Modals/EvaluationModal.vue:62
 msgid "No slots available for this date."
@@ -5352,7 +5352,7 @@ msgstr "Bài kiểm tra"
 #. Label of the quiz_id (Data) field in DocType 'Course Lesson'
 #: lms/lms/doctype/course_lesson/course_lesson.json
 msgid "Quiz ID"
-msgstr "Id câu đố"
+msgstr "Id bài kiểm tra"
 
 #. Label of a Link in the LMS Workspace
 #: frontend/src/components/Settings/BadgeForm.vue:197
@@ -5387,26 +5387,26 @@ msgstr ""
 
 #: frontend/src/pages/QuizForm.vue:310
 msgid "Quiz updated successfully"
-msgstr "Câu đố cập nhật thành công"
+msgstr "bài kiểm tra cập nhật thành công"
 
 #. Description of the 'Quiz ID' (Data) field in DocType 'Course Lesson'
 #: lms/lms/doctype/course_lesson/course_lesson.json
 msgid "Quiz will appear at the bottom of the lesson."
-msgstr "Câu đố sẽ xuất hiện ở dưới cùng của bài học."
+msgstr "bài kiểm tra sẽ xuất hiện ở dưới cùng của bài học."
 
 #: frontend/src/components/AppSidebar.vue:600
 #: frontend/src/pages/QuizForm.vue:396 frontend/src/pages/Quizzes.vue:275
 #: frontend/src/pages/Quizzes.vue:285 lms/www/lms.py:249
 msgid "Quizzes"
-msgstr "Câu đố"
+msgstr "Bài kiểm tra"
 
 #: frontend/src/pages/Quizzes.vue:223
 msgid "Quizzes deleted successfully"
-msgstr "Các câu đố đã xóa thành công"
+msgstr "Các bài kiểm tra đã xóa thành công"
 
 #: frontend/src/components/Modals/QuizInVideo.vue:35
 msgid "Quizzes in this video"
-msgstr "Câu đố trong video này"
+msgstr "bài kiểm tra trong video này"
 
 #. Label of the rating (Rating) field in DocType 'LMS Certificate Evaluation'
 #. Label of the rating (Data) field in DocType 'LMS Course'
@@ -6147,24 +6147,24 @@ msgstr "Chủ đề là bắt buộc"
 
 #: frontend/src/components/Assignment.vue:32
 msgid "Submission"
-msgstr "Sự đệ trình"
+msgstr "Bài nộp"
 
 #: frontend/src/components/Modals/AssignmentForm.vue:27
 msgid "Submission Type"
-msgstr "Loại nộp"
+msgstr "Hình thức nộp bài"
 
 #: frontend/src/components/Assignment.vue:13
 #: frontend/src/components/Assignment.vue:16
 msgid "Submission by"
-msgstr "Đệ trình bởi"
+msgstr "Bài nộp bởi"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmission.vue:353
 msgid "Submission saved!"
-msgstr "Đệ trình lưu!"
+msgstr "Bài nộp lưu!"
 
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExerciseSubmissions.vue:254
 msgid "Submissions deleted successfully"
-msgstr "Đệ trình đã xóa thành công"
+msgstr "Bài nộp đã xóa thành công"
 
 #: frontend/src/components/Modals/AssessmentModal.vue:9
 #: frontend/src/components/Modals/BatchCourseModal.vue:9
@@ -6514,7 +6514,7 @@ msgstr ""
 
 #: frontend/src/components/Quiz.vue:11
 msgid "This quiz consists of {0} questions."
-msgstr "Câu đố này bao gồm các câu hỏi {0}."
+msgstr "bài kiểm tra này bao gồm các câu hỏi {0}."
 
 #: frontend/src/components/AppSidebar.vue:75
 #: frontend/src/components/AppSidebar.vue:115

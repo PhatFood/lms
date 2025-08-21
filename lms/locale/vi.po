@@ -1729,7 +1729,7 @@ msgstr "Ảnh bìa"
 #: frontend/src/pages/ProgrammingExercises/ProgrammingExercises.vue:32
 #: frontend/src/pages/Programs.vue:93 frontend/src/pages/Quizzes.vue:10
 msgid "Create"
-msgstr "Tạo nên"
+msgstr "Tạo mới"
 
 #: lms/lms/doctype/lms_certificate_evaluation/lms_certificate_evaluation.js:7
 msgid "Create Certificate"
@@ -5661,7 +5661,7 @@ msgstr "Thứ bảy"
 #: frontend/src/pages/QuizForm.vue:43 frontend/src/pages/QuizSubmission.vue:14
 #: frontend/src/pages/Quizzes.vue:105
 msgid "Save"
-msgstr "Cứu"
+msgstr "Lưu"
 
 #. Label of the schedule (Table) field in DocType 'Course Evaluator'
 #: lms/lms/doctype/course_evaluator/course_evaluator.json

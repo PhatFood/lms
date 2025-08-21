@@ -135,7 +135,7 @@ msgstr "Tích cực"
 
 #: frontend/src/pages/Statistics.vue:16
 msgid "Active Members"
-msgstr "Thành viên tích cực"
+msgstr "Thành viên hoạt động"
 
 #: frontend/src/components/Assessments.vue:11
 #: frontend/src/components/BatchCourses.vue:11
@@ -934,7 +934,7 @@ msgstr "Mặc bình thường"
 #: lms/lms/doctype/lms_course/lms_course.json
 #: lms/templates/signup-form.html:22
 msgid "Category"
-msgstr "Loại"
+msgstr "Danh mục"
 
 #: frontend/src/components/Settings/Categories.vue:39
 msgid "Category Name"
@@ -942,15 +942,15 @@ msgstr "Tên danh mục"
 
 #: frontend/src/components/Settings/Categories.vue:133
 msgid "Category added successfully"
-msgstr "Thể loại được thêm thành công"
+msgstr "Danh mục được thêm thành công"
 
 #: frontend/src/components/Settings/Categories.vue:193
 msgid "Category deleted successfully"
-msgstr "Thể loại đã xóa thành công"
+msgstr "Danh mục đã xóa thành công"
 
 #: frontend/src/components/Settings/Categories.vue:173
 msgid "Category updated successfully"
-msgstr "Thể loại được cập nhật thành công"
+msgstr "Danh mục được cập nhật thành công"
 
 #. Label of the certificate (Link) field in DocType 'LMS Enrollment'
 #. Label of a shortcut in the LMS Workspace
@@ -2017,12 +2017,12 @@ msgstr "Chi tiết"
 
 #: frontend/src/pages/CourseForm.vue:171
 msgid "Disable Self Enrollment"
-msgstr "Tắt việc tự đăng ký"
+msgstr "Tắt việc học viên tự đăng ký"
 
 #. Label of the disable_self_learning (Check) field in DocType 'LMS Course'
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Disable Self Learning"
-msgstr "Tắt việc tự học"
+msgstr "Tắt tính năng tự học"
 
 #. Label of the disable_signup (Check) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -2034,12 +2034,12 @@ msgstr "Tắt đăng ký"
 #: frontend/src/components/Settings/ZoomSettings.vue:66
 #: lms/job/doctype/job_opportunity/job_opportunity.json
 msgid "Disabled"
-msgstr "Tàn tật"
+msgstr "Tắt"
 
 #: frontend/src/components/DiscussionReplies.vue:57
 #: lms/lms/widgets/NoPreviewModal.html:25 lms/templates/reviews.html:159
 msgid "Discard"
-msgstr "Loại bỏ"
+msgstr "Hủy"
 
 #. Label of the show_discussions (Check) field in DocType 'LMS Settings'
 #: frontend/src/pages/Batch.vue:88
@@ -2061,8 +2061,8 @@ msgid ""
 "Don’t miss this opportunity to enhance your skills. Click below to complete "
 "your enrollment"
 msgstr ""
-"Don lồng bỏ lỡ cơ hội này để tăng cường kỹ năng của bạn. Nhấp vào bên dưới "
-"để hoàn thành đăng ký của bạn"
+"Đừng bỏ lỡ cơ hội này để nâng cao kỹ năng của bạn. Hãy nhấp vào bên dưới để hoàn tất"
+"đăng ký của bạn"
 
 #. Label of the dream_companies (Data) field in DocType 'User'
 #: lms/fixtures/custom_field.json
@@ -2596,7 +2596,7 @@ msgstr "Không cập nhật thẻ meta {0}"
 #: frontend/src/pages/CourseForm.vue:166
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Featured"
-msgstr "Đặc trưng"
+msgstr "Nổi bật"
 
 #. Label of the feedback (Small Text) field in DocType 'LMS Batch Feedback'
 #: frontend/src/components/BatchFeedback.vue:30
@@ -3739,7 +3739,7 @@ msgstr "Liên kết"
 
 #. Option for the 'Status' (Select) field in DocType 'Cohort'
 #: frontend/src/pages/Courses.vue:309 lms/lms/doctype/cohort/cohort.json
-msgid "Live"
+msgid "Trực tiếp"
 msgstr "Sống"
 
 #. Label of the live_class (Link) field in DocType 'LMS Live Class
@@ -6279,7 +6279,7 @@ msgstr "Trình quản lý hệ thống"
 #: frontend/src/pages/CourseForm.vue:51
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Tags"
-msgstr "Tags"
+msgstr "Từ khoá"
 
 #: frontend/src/components/InstallPrompt.vue:52
 msgid "Tap"
@@ -6820,16 +6820,16 @@ msgstr "Vai trò phi cấu trúc"
 #: lms/lms/doctype/lms_certificate_request/lms_certificate_request.json
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Upcoming"
-msgstr "Sắp tới"
+msgstr "Chuẩn bị diễn ra"
 
 #: frontend/src/pages/Batch.vue:187
 msgid "Upcoming Batches"
-msgstr "Các đợt sắp tới"
+msgstr "Các khóa sắp mở"
 
 #: frontend/src/components/UpcomingEvaluations.vue:5
 #: lms/templates/upcoming_evals.html:3
 msgid "Upcoming Evaluations"
-msgstr "Đánh giá sắp tới"
+msgstr "Bài kiểm tra / kỳ đánh giá sắp tới"
 
 #: frontend/src/components/Settings/BrandSettings.vue:24
 #: frontend/src/components/Settings/PaymentSettings.vue:27

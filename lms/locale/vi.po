@@ -299,7 +299,7 @@ msgstr "Tất cả"
 
 #: frontend/src/pages/Batches.vue:26
 msgid "All Batches"
-msgstr "Tất cả các lô"
+msgstr "Tất cả các đợt học"
 
 #: frontend/src/pages/Courses.vue:26 lms/lms/widgets/BreadCrumb.html:3
 msgid "All Courses"
@@ -406,11 +406,11 @@ msgstr "Xuất hiện trên thẻ khóa học trong danh sách khóa học"
 #: frontend/src/pages/BatchForm.vue:250
 msgid "Appears when the batch URL is shared on any online platform"
 msgstr ""
-"Xuất hiện khi URL hàng loạt được chia sẻ trên bất kỳ nền tảng trực tuyến nào"
+"Xuất hiện khi URL đợt học được chia sẻ trên bất kỳ nền tảng trực tuyến nào"
 
 #: frontend/src/pages/BatchForm.vue:231
 msgid "Appears when the batch URL is shared on socials"
-msgstr "Xuất hiện khi URL hàng loạt được chia sẻ trên các xã hội"
+msgstr "Xuất hiện khi URL đợt học được chia sẻ trên các xã hội"
 
 #: frontend/src/pages/JobDetail.vue:51
 msgid "Apply"
@@ -443,7 +443,7 @@ msgstr "Ứng dụng"
 
 #: frontend/src/pages/Batches.vue:285
 msgid "Archived"
-msgstr "Lưu trữ"
+msgstr "Đã lưu trữ"
 
 #: frontend/src/components/UpcomingEvaluations.vue:172
 msgid ""
@@ -702,45 +702,45 @@ msgstr "Huy hiệu cập nhật thành công"
 #: lms/lms/doctype/lms_certificate_request/lms_certificate_request.json
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
 msgid "Batch"
-msgstr "Đợt"
+msgstr "Đợt học"
 
 #. Label of the batch_confirmation_template (Link) field in DocType 'LMS
 #. Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Batch Confirmation Template"
-msgstr "Mẫu xác nhận hàng loạt"
+msgstr "Mẫu xác nhận đợt học"
 
 #. Name of a DocType
 #: lms/lms/doctype/batch_course/batch_course.json
 msgid "Batch Course"
-msgstr "Khóa học hàng loạt"
+msgstr "Khóa học đợt học"
 
 #. Label of the section_break_5 (Section Break) field in DocType 'LMS Batch
 #. Old'
 #: lms/lms/doctype/lms_batch_old/lms_batch_old.json
 msgid "Batch Description"
-msgstr "Mô tả hàng loạt"
+msgstr "Mô tả đợt học"
 
 #. Label of the batch_details (Text Editor) field in DocType 'LMS Batch'
 #: frontend/src/pages/BatchForm.vue:133
 #: lms/lms/doctype/lms_batch/lms_batch.json
 #: lms/templates/emails/batch_confirmation.html:26
 msgid "Batch Details"
-msgstr "Chi tiết hàng loạt"
+msgstr "Chi tiết đợt học"
 
 #. Label of the batch_details_raw (HTML Editor) field in DocType 'LMS Batch'
 #: lms/lms/doctype/lms_batch/lms_batch.json
 msgid "Batch Details Raw"
-msgstr "Chi tiết hàng loạt thô"
+msgstr "Chi tiết đợt học gốc"
 
 #: frontend/src/components/Settings/BadgeForm.vue:204
 #: frontend/src/components/Settings/Badges.vue:202
 msgid "Batch Enrollment"
-msgstr "Ghi danh hàng loạt"
+msgstr "Ghi danh đợt học"
 
 #: frontend/src/components/Modals/EmailTemplateModal.vue:28
 msgid "Batch Enrollment Confirmation"
-msgstr "Xác nhận đăng ký hàng loạt"
+msgstr "Xác nhận đăng ký đợt học"
 
 #. Name of a role
 #: lms/lms/doctype/course_evaluator/course_evaluator.json
@@ -753,13 +753,13 @@ msgstr "Xác nhận đăng ký hàng loạt"
 #: lms/lms/doctype/lms_programming_exercise_submission/lms_programming_exercise_submission.json
 #: lms/lms/doctype/lms_zoom_settings/lms_zoom_settings.json
 msgid "Batch Evaluator"
-msgstr "Người đánh giá hàng loạt"
+msgstr "Người đánh giá đợt học"
 
 #. Label of the batch_name (Link) field in DocType 'LMS Certificate
 #. Evaluation'
 #: lms/lms/doctype/lms_certificate_evaluation/lms_certificate_evaluation.json
 msgid "Batch Name"
-msgstr "Tên hàng loạt"
+msgstr "Tên đợt học"
 
 #. Label of the batch_old (Link) field in DocType 'Exercise Latest Submission'
 #. Label of the batch_old (Link) field in DocType 'Exercise Submission'
@@ -777,22 +777,22 @@ msgstr "Lô cũ"
 #: lms/lms/doctype/lms_batch_old/lms_batch_old.json
 #: lms/lms/doctype/lms_settings/lms_settings.json
 msgid "Batch Settings"
-msgstr "Cài đặt hàng loạt"
+msgstr "Cài đặt đợt học"
 
 #: lms/templates/emails/batch_confirmation.html:11
 msgid "Batch Start Date:"
-msgstr "Ngày bắt đầu hàng loạt:"
+msgstr "Ngày bắt đầu đợt học:"
 
 #: frontend/src/components/BatchStudents.vue:40
 msgid "Batch Summary"
-msgstr "Tóm tắt hàng loạt"
+msgstr "Tóm tắt đợt học"
 
 #. Label of the batch_title (Data) field in DocType 'LMS Certificate'
 #. Label of the batch_title (Data) field in DocType 'LMS Certificate Request'
 #: lms/lms/doctype/lms_certificate/lms_certificate.json
 #: lms/lms/doctype/lms_certificate_request/lms_certificate_request.json
 msgid "Batch Title"
-msgstr "Tiêu đề hàng loạt"
+msgstr "Tiêu đề đợt học"
 
 #: frontend/src/pages/BatchForm.vue:581
 msgid "Batch deleted successfully"
@@ -800,7 +800,7 @@ msgstr "Batch đã xóa thành công"
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:43
 msgid "Batch end date cannot be before the batch start date"
-msgstr "Ngày kết thúc hàng loạt không thể trước ngày bắt đầu hàng loạt"
+msgstr "Ngày kết thúc đợt học không thể trước ngày bắt đầu đợt học"
 
 #: lms/lms/api.py:210
 msgid "Batch has already started."
@@ -813,7 +813,7 @@ msgstr "Batch được bán hết."
 #: lms/lms/doctype/lms_batch/lms_batch.py:48
 msgid "Batch start time cannot be greater than or equal to end time."
 msgstr ""
-"Thời gian bắt đầu hàng loạt không thể lớn hơn hoặc bằng thời gian cuối."
+"Thời gian bắt đầu đợt học không thể lớn hơn hoặc bằng thời gian cuối."
 
 #: lms/templates/emails/batch_start_reminder.html:10
 msgid "Batch:"
@@ -823,7 +823,7 @@ msgstr "Lô:"
 #: frontend/src/pages/Batches.vue:301 frontend/src/pages/Batches.vue:308
 #: lms/lms/doctype/lms_settings/lms_settings.json lms/www/lms.py:120
 msgid "Batches"
-msgstr "Đợt"
+msgstr "Đợt học"
 
 #. Label of the begin_date (Date) field in DocType 'Cohort'
 #: lms/lms/doctype/cohort/cohort.json
@@ -1001,17 +1001,17 @@ msgstr "Chứng chỉ nhận được tạo thành công"
 #: lms/lms/doctype/lms_enrollment/lms_enrollment.json
 #: lms/lms/workspace/lms/lms.json
 msgid "Certification"
-msgstr "Chứng nhận"
+msgstr "Chứng chỉ"
 
 #. Label of the certification_details (Section Break) field in DocType 'User'
 #: lms/fixtures/custom_field.json
 msgid "Certification Details"
-msgstr "Chi tiết chứng nhận"
+msgstr "Chi tiết chứng chỉ"
 
 #. Label of the certification_name (Data) field in DocType 'Certification'
 #: lms/lms/doctype/certification/certification.json
 msgid "Certification Name"
-msgstr "Tên chứng nhận"
+msgstr "Tên chứng chỉ"
 
 #: frontend/src/components/BatchStudents.vue:17
 msgid "Certified"
@@ -2393,7 +2393,7 @@ msgstr "Chi tiết đánh giá"
 #: frontend/src/pages/BatchForm.vue:122
 #: lms/lms/doctype/lms_batch/lms_batch.json
 msgid "Evaluation End Date"
-msgstr "Đánh giá ngày kết thúc"
+msgstr "Ngày kết thúc đánh giá"
 
 #. Label of a Link in the LMS Workspace
 #: lms/lms/workspace/lms/lms.json
@@ -2402,7 +2402,7 @@ msgstr "Yêu cầu đánh giá"
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:83
 msgid "Evaluation end date cannot be less than the batch end date."
-msgstr "Ngày kết thúc đánh giá không thể nhỏ hơn ngày kết thúc hàng loạt."
+msgstr "Ngày kết thúc đánh giá không thể nhỏ hơn ngày kết thúc đợt học."
 
 #: frontend/src/components/Modals/Event.vue:256
 msgid "Evaluation saved successfully"
@@ -3362,12 +3362,12 @@ msgstr "Ghi danh LMS"
 #. Name of a DocType
 #: lms/lms/doctype/lms_batch_feedback/lms_batch_feedback.json
 msgid "LMS Batch Feedback"
-msgstr "LMS Phản hồi hàng loạt"
+msgstr "LMS Phản hồi đợt học"
 
 #. Name of a DocType
 #: lms/lms/doctype/lms_batch_old/lms_batch_old.json
 msgid "LMS Batch Old"
-msgstr "LMS hàng loạt cũ"
+msgstr "LMS đợt học cũ"
 
 #. Name of a DocType
 #: lms/lms/doctype/lms_batch_timetable/lms_batch_timetable.json
@@ -3899,17 +3899,17 @@ msgstr "Nỗ lực tối đa"
 #: frontend/src/pages/BatchForm.vue:194
 #: lms/lms/doctype/lms_batch/lms_batch.json
 msgid "Medium"
-msgstr "Trung bình"
+msgstr "Phương thức học"
 
 #. Label of the medium (Data) field in DocType 'User'
 #: lms/fixtures/custom_field.json
 msgid "Medium ID"
-msgstr "ID trung bình"
+msgstr "Phương thức học ID"
 
 #: lms/templates/emails/batch_confirmation.html:16
 #: lms/templates/emails/batch_start_reminder.html:19
 msgid "Medium:"
-msgstr "Trung bình:"
+msgstr "Phương thức học:"
 
 #. Label of the meeting_id (Data) field in DocType 'LMS Live Class'
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
@@ -4264,7 +4264,7 @@ msgstr "Tên"
 #: frontend/src/pages/Courses.vue:312 frontend/src/pages/Programs.vue:14
 #: lms/lms/doctype/lms_badge/lms_badge.json
 msgid "New"
-msgstr "Mới"
+msgstr "Tạo mới"
 
 #: lms/www/lms.py:149
 msgid "New Batch"
@@ -4655,7 +4655,7 @@ msgstr "Trang"
 #: frontend/src/pages/BatchForm.vue:270
 #: lms/lms/doctype/lms_batch/lms_batch.json
 msgid "Paid Batch"
-msgstr "Batch trả tiền"
+msgstr "Đợt học có phí"
 
 #. Label of the paid_certificate (Check) field in DocType 'LMS Course'
 #: frontend/src/pages/CourseForm.vue:251
@@ -5087,13 +5087,13 @@ msgstr "Trước"
 #: frontend/src/pages/BatchForm.vue:265
 #: lms/lms/doctype/lms_batch/lms_batch.json
 msgid "Pricing"
-msgstr "Giá cả"
+msgstr "Giá"
 
 #. Label of the pricing_tab (Tab Break) field in DocType 'LMS Course'
 #: frontend/src/pages/CourseForm.vue:235
 #: lms/lms/doctype/lms_course/lms_course.json
 msgid "Pricing and Certification"
-msgstr "Giá cả và chứng chỉ"
+msgstr "Giá và chứng chỉ"
 
 #. Label of the exception_country (Table MultiSelect) field in DocType 'LMS
 #. Settings'
@@ -5582,12 +5582,12 @@ msgstr "Tuyến đường"
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:130
 msgid "Row #{0} Date cannot be outside the batch duration."
-msgstr "Hàng #{0} Ngày không thể nằm ngoài thời lượng hàng loạt."
+msgstr "Hàng #{0} Ngày không thể nằm ngoài thời lượng đợt học."
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:126
 msgid "Row #{0} End time cannot be outside the batch duration."
 msgstr ""
-"Hàng #{0} Thời gian kết thúc không thể nằm ngoài thời lượng hàng loạt."
+"Hàng #{0} Thời gian kết thúc không thể nằm ngoài thời lượng đợt học."
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:110
 msgid "Row #{0} Start time cannot be greater than or equal to end time."
@@ -5596,7 +5596,7 @@ msgstr ""
 
 #: lms/lms/doctype/lms_batch/lms_batch.py:119
 msgid "Row #{0} Start time cannot be outside the batch duration."
-msgstr "Hàng #{0} Thời gian bắt đầu không thể nằm ngoài thời lượng hàng loạt."
+msgstr "Hàng #{0} Thời gian bắt đầu không thể nằm ngoài thời lượng đợt học."
 
 #: lms/lms/doctype/lms_quiz/lms_quiz.py:33
 msgid "Rows {0} have the duplicate questions."
@@ -6448,7 +6448,7 @@ msgstr ""
 #. 'LMS Batch'
 #: lms/lms/doctype/lms_batch/lms_batch.json
 msgid "These customisations will work on the main batch page."
-msgstr "Những tùy chỉnh này sẽ hoạt động trên trang hàng loạt chính."
+msgstr "Những tùy chỉnh này sẽ hoạt động trên trang đợt học chính."
 
 #: frontend/src/pages/Badge.vue:14
 msgid "This badge has been awarded to {0} on {1}."
@@ -6599,7 +6599,7 @@ msgstr "Mẫu thời gian biểu"
 #: lms/lms/doctype/lms_certificate_request/lms_certificate_request.json
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
 msgid "Timezone"
-msgstr "Timezone"
+msgstr "Múi giờ"
 
 #: lms/templates/emails/batch_confirmation.html:21
 #: lms/templates/emails/batch_start_reminder.html:16
@@ -7339,20 +7339,20 @@ msgstr "Chế độ Zen"
 #: lms/lms/doctype/lms_batch/lms_batch.json
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
 msgid "Zoom Account"
-msgstr "Tài khoản thu phóng"
+msgstr "Tài khoản Zoom"
 
 #: frontend/src/components/Modals/ZoomAccountModal.vue:164
 msgid "Zoom Account created successfully"
-msgstr "Tài khoản thu phóng được tạo thành công"
+msgstr "Tài khoản Zoom được tạo thành công"
 
 #: frontend/src/components/Modals/ZoomAccountModal.vue:202
 msgid "Zoom Account updated successfully"
-msgstr "Tài khoản thu phóng được cập nhật thành công"
+msgstr "Tài khoản Zoom được cập nhật thành công"
 
 #. Name of a DocType
 #: lms/lms/doctype/zoom_settings/zoom_settings.json
 msgid "Zoom Settings"
-msgstr "Cài đặt phóng to"
+msgstr "Cài đặt Zoom"
 
 #: frontend/src/components/StudentHeatmap.vue:6
 msgid "activities"

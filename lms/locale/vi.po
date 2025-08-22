@@ -529,7 +529,7 @@ msgstr "Được chỉ định cho"
 #: lms/lms/doctype/lms_assignment_submission/lms_assignment_submission.json
 #: lms/templates/assignment.html:3
 msgid "Assignment"
-msgstr "Phân công"
+msgstr "Bài tập"
 
 #. Label of the assignment_attachment (Attach) field in DocType 'LMS
 #. Assignment
@@ -1789,7 +1789,7 @@ msgstr "Tạo bài kiểm tra đầu tiên của bạn"
 
 #: frontend/src/pages/Assignments.vue:173 frontend/src/pages/Courses.vue:323
 msgid "Created"
-msgstr "Tạo mới"
+msgstr "Đã tạo"
 
 #: frontend/src/components/AppSidebar.vue:589
 msgid "Creating a batch"
@@ -2111,7 +2111,7 @@ msgstr "E-mail"
 #: frontend/src/pages/JobDetail.vue:34 frontend/src/pages/Lesson.vue:133
 #: frontend/src/pages/Profile.vue:36 frontend/src/pages/Programs.vue:53
 msgid "Edit"
-msgstr "Biên tập"
+msgstr "Chỉnh sửa"
 
 #: frontend/src/components/Modals/AssignmentForm.vue:14
 msgid "Edit Assignment"
@@ -2233,7 +2233,7 @@ msgstr "Bật đường dẫn học tập"
 #. Label of the enable_negative_marking (Check) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:117 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Enable Negative Marking"
-msgstr "Cho phép đánh dấu tiêu cực"
+msgstr "Cho phép trừ điểm"
 
 #: frontend/src/components/Modals/ChapterModal.vue:24
 msgid "Enable this only if you want to upload a SCORM package as a chapter."
@@ -3861,12 +3861,12 @@ msgstr "Đánh dấu tất cả như đọc"
 #: lms/lms/doctype/lms_quiz_question/lms_quiz_question.json
 #: lms/lms/doctype/lms_quiz_result/lms_quiz_result.json
 msgid "Marks"
-msgstr "Dấu hiệu"
+msgstr "Điểm"
 
 #. Label of the marks_to_cut (Int) field in DocType 'LMS Quiz'
 #: lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Marks To Cut"
-msgstr "Dấu hiệu để cắt"
+msgstr "Ngưỡng đạt"
 
 #: lms/lms/doctype/lms_quiz_submission/lms_quiz_submission.py:41
 msgid ""
@@ -3893,7 +3893,7 @@ msgstr "Cố gắng tối đa"
 
 #: frontend/src/pages/QuizForm.vue:62
 msgid "Maximum Attempts"
-msgstr "Nỗ lực tối đa"
+msgstr "Lượt thử tối đa"
 
 #. Label of the medium (Select) field in DocType 'LMS Batch'
 #: frontend/src/pages/BatchForm.vue:194
@@ -4264,7 +4264,7 @@ msgstr "Tên"
 #: frontend/src/pages/Courses.vue:312 frontend/src/pages/Programs.vue:14
 #: lms/lms/doctype/lms_badge/lms_badge.json
 msgid "New"
-msgstr "Tạo mới"
+msgstr "Mới"
 
 #: lms/www/lms.py:149
 msgid "New Batch"
@@ -4715,7 +4715,7 @@ msgstr "Đi qua"
 #: lms/lms/doctype/lms_quiz/lms_quiz.json
 #: lms/lms/doctype/lms_quiz_submission/lms_quiz_submission.json
 msgid "Passing Percentage"
-msgstr "Tỷ lệ vượt qua"
+msgstr "Phần trăm đạt yêu cầu"
 
 #. Label of the password (Password) field in DocType 'LMS Live Class'
 #: lms/lms/doctype/lms_live_class/lms_live_class.json
@@ -5617,12 +5617,12 @@ msgstr "Giun"
 #: frontend/src/components/Modals/ChapterModal.vue:22
 #: lms/lms/doctype/course_chapter/course_chapter.json
 msgid "SCORM Package"
-msgstr "Gói Scorm"
+msgstr "Gói SCORM"
 
 #. Label of the scorm_package_path (Code) field in DocType 'Course Chapter'
 #: lms/lms/doctype/course_chapter/course_chapter.json
 msgid "SCORM Package Path"
-msgstr "Đường dẫn gói Scorm"
+msgstr "Đường dẫn gói SCORM"
 
 #. Label of the seo_tab (Tab Break) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -5838,7 +5838,7 @@ msgstr "Hiển thị câu trả lời"
 #. Label of the show_submission_history (Check) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:98 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Show Submission History"
-msgstr "Hiển thị lịch sử đệ trình"
+msgstr "Hiển thị lịch sử nộp bài"
 
 #. Label of the column_break_2 (Column Break) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
@@ -5863,7 +5863,7 @@ msgstr "Hiển thị lớp học trực tiếp"
 #. Label of the shuffle_questions (Check) field in DocType 'LMS Quiz'
 #: frontend/src/pages/QuizForm.vue:105 lms/lms/doctype/lms_quiz/lms_quiz.json
 msgid "Shuffle Questions"
-msgstr "Câu hỏi xáo trộn"
+msgstr "Đảo thứ tự câu hỏi"
 
 #. Label of the sidebar_tab (Tab Break) field in DocType 'LMS Settings'
 #: lms/lms/doctype/lms_settings/lms_settings.json
